@@ -9,5 +9,14 @@
   "metadata": {
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "user-story-skills",
+      "source": {
+        "source": "github",
+        "repo": "jdinkla/user-story-skills"
+      },
+      "description": "27 skills and slash commands for user story refinement across the full lifecycle — discovery, refinement, planning, QA, compliance, and post-release."
+    }
+  ]
 }

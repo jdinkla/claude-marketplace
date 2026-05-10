@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jdinkla-marketplace",
+  "description": "Personal Claude Code plugin marketplace by Joern Dinkla.",
+  "owner": {
+    "name": "Joern Dinkla",
+    "email": "joern.dinkla@gmail.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}

@@ -13,16 +13,16 @@
     {
       "name": "user-story-skills",
       "source": {
-        "source": "github",
-        "repo": "jdinkla/user-story-skills"
+        "source": "url",
+        "url": "https://github.com/jdinkla/user-story-skills.git"
       },
       "description": "27 skills and slash commands for user story refinement across the full lifecycle — discovery, refinement, planning, QA, compliance, and post-release."
     },
     {
       "name": "software-craft",
       "source": {
-        "source": "github",
-        "repo": "jdinkla/software-craft"
+        "source": "url",
+        "url": "https://github.com/jdinkla/software-craft.git"
       },
       "description": "Prompts for software architecture, DDD, ADRs, QA, and content processing: ADR create/refine/review, Kotlin arch review, DDD analysis, tech-debt & test audits, and markdown/X summarizers. 17 slash commands plus 2 skills."
     }

@@ -25,6 +25,14 @@
         "url": "https://github.com/jdinkla/software-craft.git"
       },
       "description": "Prompts for software architecture, DDD, ADRs, QA, and content processing: ADR create/refine/review, Kotlin arch review, DDD analysis, tech-debt & test audits, and markdown/X summarizers. 17 slash commands plus 2 skills."
+    },
+    {
+      "name": "first-factory",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jdinkla/first-factory.git"
+      },
+      "description": "A software factory: drives a product idea from an empty directory to a built, tested, QA'd implementation through gated agent stages — discover, specify (PRD + BDD/Cucumber), scaffold, plan with independent review, backlog-driven build loop, and final QA. Ships a verified Kotlin + Cucumber stack template."
     }
   ]
 }

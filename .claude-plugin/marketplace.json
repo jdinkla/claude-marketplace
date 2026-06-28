@@ -30,7 +30,7 @@
       "name": "first-factory",
       "source": {
         "source": "url",
-        "url": "https://github.com/jdinkla/first-factory.git"
+        "url": "git@github.com:jdinkla/first-factory.git"
       },
       "description": "A software factory: drives a product idea from an empty directory to a built, tested, QA'd implementation through gated agent stages — discover, specify (PRD + BDD/Cucumber), scaffold, plan with independent review, backlog-driven build loop, and final QA. Ships a verified Kotlin + Cucumber stack template."
     }

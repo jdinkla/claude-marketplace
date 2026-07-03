@@ -33,6 +33,14 @@
         "url": "git@github.com:jdinkla/first-factory.git"
       },
       "description": "A software factory: drives a product idea from an empty directory to a built, tested, QA'd implementation through gated agent stages — discover, specify (PRD + BDD/Cucumber), scaffold, plan with independent review, backlog-driven build loop, and final QA. Ships a verified Kotlin + Cucumber stack template."
+    },
+    {
+      "name": "demo-factory",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:jdinkla/demo-factory.git"
+      },
+      "description": "A demo studio: builds visual idea demos (three.js / WebGL, one self-contained HTML page) through an iterate-and-judge pipeline — brief with a shot list as definition of done, scaffold with a deterministic observation harness and headless Playwright capture, then a build → shoot → judge → refine loop where an independent vision agent critiques the rendered screenshots, capped rounds, human feel check at the end. Sibling of first-factory for exploratory visual work."
     }
   ]
 }

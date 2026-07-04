@@ -41,6 +41,14 @@
         "url": "git@github.com:jdinkla/demo-factory.git"
       },
       "description": "A demo studio: builds visual idea demos (three.js / WebGL, one self-contained HTML page) through an iterate-and-judge pipeline — brief with a shot list as definition of done, scaffold with a deterministic observation harness and headless Playwright capture, then a build → shoot → judge → refine loop where an independent vision agent critiques the rendered screenshots, capped rounds, human feel check at the end. Sibling of first-factory for exploratory visual work."
+    },
+    {
+      "name": "visual-novel-generator",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:jdinkla/visual-novel-generator.git"
+      },
+      "description": "A visual novel generator: drives a fresh repo from a story idea to a playable Ink visual novel (terminal + browser) — brief with a branch outline and path list as definition of done, scaffold with the full Ink player framework and test harness, then a write → check → judge → refine loop where an independent editorial agent plays every path and critiques the prose, capped rounds, human read-through at the end. Optional GitHub Pages publish stage. Sibling of first-factory and demo-factory."
     }
   ]
 }

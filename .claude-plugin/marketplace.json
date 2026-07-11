@@ -48,7 +48,7 @@
         "source": "url",
         "url": "git@github.com:jdinkla/website-factory.git"
       },
-      "description": "A website factory: drives a site idea from an empty directory to a published GitHub Pages site through gated stages — brief with a page inventory as definition of done, a human-gated design.html mock, a verified lean-Jekyll scaffold with a Playwright shots harness, then a build → shoot → judge → refine loop where independent visual and editorial agents critique the rendered pages and the prose, capped rounds, human feel check, publish stage. Carries craft knowledge (typography, palette, Jekyll conventions, content pipelines) extracted from ~25 hand-built sites. Sibling of first-factory and demo-factory."
+      "description": "A website factory: drives a site idea from an empty directory to a published GitHub Pages site through gated stages — brief with a page inventory as definition of done, a human-gated design.html mock, a verified scaffold (lean-Jekyll or Astro+React-islands) with a Playwright shots harness, then a build → shoot → judge → refine loop where independent visual and editorial agents critique the rendered pages and the prose, capped rounds, human feel check, publish stage. Carries craft knowledge (typography, palette, Jekyll conventions, content pipelines, Astro islands) extracted from ~25 hand-built sites. Sibling of first-factory and demo-factory."
     },
     {
       "name": "visual-novel-generator",

@@ -43,6 +43,14 @@
       "description": "A demo studio: builds visual idea demos (three.js / WebGL, one self-contained HTML page) through an iterate-and-judge pipeline — brief with a shot list as definition of done, scaffold with a deterministic observation harness and headless Playwright capture, then a build → shoot → judge → refine loop where an independent vision agent critiques the rendered screenshots, capped rounds, human feel check at the end. Sibling of first-factory for exploratory visual work."
     },
     {
+      "name": "website-factory",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:jdinkla/website-factory.git"
+      },
+      "description": "A website factory: drives a site idea from an empty directory to a published GitHub Pages site through gated stages — brief with a page inventory as definition of done, a human-gated design.html mock, a verified lean-Jekyll scaffold with a Playwright shots harness, then a build → shoot → judge → refine loop where independent visual and editorial agents critique the rendered pages and the prose, capped rounds, human feel check, publish stage. Carries craft knowledge (typography, palette, Jekyll conventions, content pipelines) extracted from ~25 hand-built sites. Sibling of first-factory and demo-factory."
+    },
+    {
       "name": "visual-novel-generator",
       "source": {
         "source": "url",

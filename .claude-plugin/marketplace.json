@@ -51,6 +51,14 @@
       "description": "A website factory: drives a site idea from an empty directory to a published GitHub Pages site through gated stages — brief with a page inventory as definition of done, a human-gated design.html mock, a verified scaffold (lean-Jekyll or Astro+React-islands) with a Playwright shots harness, then a build → shoot → judge → refine loop where independent visual and editorial agents critique the rendered pages and the prose, capped rounds, human feel check, publish stage. Carries craft knowledge (typography, palette, Jekyll conventions, content pipelines, Astro islands) extracted from ~25 hand-built sites. Sibling of first-factory and demo-factory."
     },
     {
+      "name": "sim-factory",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:jdinkla/sim-factory.git"
+      },
+      "description": "A sim factory: drives a deterministic browser-sim idea (turn-based games, interactive models — TypeScript, no backend) from an empty directory to a playable, verified app through gated stages — brief with mission list and screen inventory as definitions of done, engine spec (PRD + BDD + missions), a human-gated design.html mock, a verified scaffold with a pure engine kernel and observation harness, then a two-phase build: hard-gated engine (floor + independent engine-reviewer) followed by a judged UI loop (visual + editorial agents, capped rounds, human play check). Missions are executable acceptance tests; a Playwright gate plays them through the real UI. Optional GitHub Pages publish. Sibling of first-factory, demo-factory, and website-factory."
+    },
+    {
       "name": "visual-novel-generator",
       "source": {
         "source": "url",
